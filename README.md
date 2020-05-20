@@ -30,9 +30,8 @@ chmod 700 mkix2fw2usb.sh
 ```
 chown -R root:root /usb_mounted_path/emctools/
 ls -l /usb_mounted_path/emctools/
-ls -l /usb_mounted_path/emctools/ix2-200_images/
+ls -l /usb_mounted_path/emctools/ix4-200d_images/
 ```
-5. using ix2-200d_images directory doesn't work and had to change the path to ix2-200_images
 
 Ref #1
 http://iomega.nas-central.org/wiki/Category:Ix2-200-usb-init
