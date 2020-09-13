@@ -1,4 +1,4 @@
-ifw=/home/bakula/ix4-200d-ix4-200d-2.1.50.30227.tgz
+ifw=/home/~/ix4-200d-ix4-200d-2.1.50.30227.tgz
 ofw=${ifw%.tgz}-decrypted.tar.gz
 ix4=${ifw%.tgz}-files
 usb=/mnt/test
